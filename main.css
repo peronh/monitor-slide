@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+    box-sizing: border-box;
+  }
+  body {
+    width: 100vw;
+  }
+  main {
+    background-image: url(assets/backpic.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    width:1366px;
+    height:740px;
+    padding-top: 119.5px;
+  }
+  #slider{
+    width:764px;
+    height:333px;
+    background-size: cover;
+    overflow: hidden;
+    margin:0 auto; 
+    margin-left: 303.5px;
+    transform: rotate(0.1deg);
+    
+  }
+  #slides{
+    width: 8000px;
+    height:333px;
+    display: block;
+  }
+  .slide{
+    width:764px;
+    max-height:333px;
+    float: left;
+  }
