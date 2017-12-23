@@ -18,7 +18,7 @@
     padding-top: 119.5px;
   }
   #slider{
-    width:764px;
+    width:765px;
     height:333px;
     background-size: cover;
     overflow: hidden;
@@ -31,7 +31,7 @@
     display: block;
   }
   .slide{
-    width:764px;
+    width:765px;
     max-height:333px;
     float: left;
   }

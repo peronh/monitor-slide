@@ -5,7 +5,7 @@ $(function(){
 	setInterval(function(){
 
     $('#slider #slides').animate({
-          'margin-left':'-=764px'
+          'margin-left':'-=765px'
     },1500,function(){
 
     	currentSlide++;
