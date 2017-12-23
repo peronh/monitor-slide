@@ -22,10 +22,8 @@
     height:333px;
     background-size: cover;
     overflow: hidden;
-    margin:0 auto; 
-    margin-left: 303.5px;
+    margin-left: 303px;
     transform: rotate(0.1deg);
-    
   }
   #slides{
     width: 8000px;
