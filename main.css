@@ -7,7 +7,7 @@
   body {
     width: 100vw;
   }
-  main {
+  section {
     background-image: url(assets/backpic.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -34,4 +34,9 @@
     width:765px;
     max-height:333px;
     float: left;
+  }
+  @media (min-width: 1540px){
+    body {
+      padding-top: 100px;
+    }
   }
